@@ -6,3 +6,7 @@ The application will allow the user to track their carbon footprint and give the
 The app will use satellite data to track the user’s movements across the day and to determine their mode of travel via speed and location. It will use estimates of the vehicles based on averages of different models. The user example is reluctant to actively contribute to known data.As such, we will need to make heavy use of estimates. 
 
 The user would prefer a selection of quantifications for the carbon footprint to choose from/see. e.g. tons of CO2, trees saved, sea level change.
+
+The user will receive a couple of suggestions to choose from on how they can reduce their carbon consumption and it will track whether there has been an improvement or try another suggestion.
+
+Based on the Google location it can be used to assume the mode of transportation used by the user.
